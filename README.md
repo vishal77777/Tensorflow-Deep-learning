@@ -8,6 +8,14 @@ Till now i've covered:
 1. regression
 2. classification
 
+Hyper parameter tunning:
+
+1. optimizers = Adam,SGD 
+2. tunning the number of layers,neurons to get optimized solution
+3. learning rate
+4. actication function = "relu"
+5. loss function = mae , mse
+
 Datasets = [Own sample,Boston,Medical insurance]
 
 
