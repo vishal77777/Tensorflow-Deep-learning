@@ -1,3 +1,4 @@
+# Code owner : Vishal Bhashyaam
 # Tensorflow-Deep-learning
 In this i will be uploading Colab notebooks related to deep learning.
 Till now i've covered: 
@@ -8,7 +9,7 @@ Till now i've covered:
 1. regression
 2. classification
 
-Hyper parameter tunning:
+Hyper parameter tunning: fro regression
 
 1. optimizers = Adam,SGD 
 2. tunning the number of layers,neurons to get optimized solution
