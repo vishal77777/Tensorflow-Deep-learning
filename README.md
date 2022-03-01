@@ -29,7 +29,7 @@ Hyper parameter tunning: for classification
 6. evaluation metrics = recall ,f1-score,precision score, confusion matrix,loss
 
 
-Datasets = [Own sample, Fashion-mnist]
+Datasets = [make_circles from skleran, Fashion-mnist]
 
 
 Later will cover : 
