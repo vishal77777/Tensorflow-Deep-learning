@@ -7,7 +7,7 @@ Till now i've covered:
 ![image](https://user-images.githubusercontent.com/66859648/155835671-fc93a964-d943-4e33-b03f-1f646949f034.png)
 
 ## Regression
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRegression_analysis&psig=AOvVaw0LLKZ4bC9_ov5_GJPgPegO&ust=1646222867580000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDn853wpPYCFQAAAAAdAAAAABAD
 https://upload.wikimedia.org/wikipedia/commons/b/be/Normdist_regression.png
 
 
