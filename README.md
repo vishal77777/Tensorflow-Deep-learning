@@ -22,7 +22,7 @@ Datasets = [Own sample,Boston,Medical insurance]
 
 ## Classification(Binary Classification,Multiclass Classification)
 
-https://www.researchgate.net/profile/Emerson-Nithiyaraj/publication/342987800/figure/fig1/AS:913942624870401@1594912310090/Binary-vs-Multiclass-classification.jpg
+![image](https://www.researchgate.net/profile/Emerson-Nithiyaraj/publication/342987800/figure/fig1/AS:913942624870401@1594912310090/Binary-vs-Multiclass-classification.jpg)
 
 Hyper parameter tunning: for classification
 
